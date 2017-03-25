@@ -26,10 +26,10 @@
   "dependencies": {
     "boom": "2.6.x",
     "extend": "2.0.x",
-    "joi": "6.x.x"
+    "joi": "10.x.x"
   },
   "peerDependencies": {
-    "joi": "6.x.x"
+    "joi": "10.x.x"
   },
   "devDependencies": {
     "body-parser": "1.10.x",
